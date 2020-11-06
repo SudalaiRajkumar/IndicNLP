@@ -7,6 +7,6 @@ Datasets & dataset links related to Tamil language are present in this folder.
 4. [Tamil Wikipedia Articles](https://www.kaggle.com/disisbig/tamil-wikipedia-articles) by Gaurav
 
 ### Classification Datasets
-1. Tamil movie reviews prediction - [Train set](https://www.kaggle.com/sudalairajkumar/tamil-nlp?select=tamil_movie_reviews_train.csv)[Test set](https://www.kaggle.com/sudalairajkumar/tamil-nlp?select=tamil_movie_reviews_test.csv)
-2. Tamil news classification - [Train set](https://www.kaggle.com/sudalairajkumar/tamil-nlp?select=tamil_news_train.csv)[Test set](https://www.kaggle.com/sudalairajkumar/tamil-nlp?select=tamil_news_test.csv)
-3. Thirukkural classification - [Train set](https://www.kaggle.com/sudalairajkumar/tamil-nlp?select=tamil_thirukkural_train.csv)[Test set](https://www.kaggle.com/sudalairajkumar/tamil-nlp?select=tamil_thirukkural_test.csv)
+1. Tamil movie reviews prediction - [Train set](https://www.kaggle.com/sudalairajkumar/tamil-nlp?select=tamil_movie_reviews_train.csv) [Test set](https://www.kaggle.com/sudalairajkumar/tamil-nlp?select=tamil_movie_reviews_test.csv)
+2. Tamil news classification - [Train set](https://www.kaggle.com/sudalairajkumar/tamil-nlp?select=tamil_news_train.csv) [Test set](https://www.kaggle.com/sudalairajkumar/tamil-nlp?select=tamil_news_test.csv)
+3. Thirukkural classification - [Train set](https://www.kaggle.com/sudalairajkumar/tamil-nlp?select=tamil_thirukkural_train.csv) [Test set](https://www.kaggle.com/sudalairajkumar/tamil-nlp?select=tamil_thirukkural_test.csv)
